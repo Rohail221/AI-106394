@@ -46,5 +46,5 @@ This method is used multiple times continuously on different platforms of a data
 
 Convulation is acheived by applying it again and again on the test file untill our desired result it obtained i.e. maximum accuracy.
 
-**Contributions:**
+## Contributions: ##
 All partners have worked equally
