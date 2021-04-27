@@ -15,7 +15,8 @@ After applying convoluation and filters we have applied various techniques on ou
  3. SVM
  4. KNN
 
-KNN: The KNN is k-nearest neighbors’ algorithm it is a most unique and simple algo it is also used in machine learning so we can used for both the problems known as classification and regression. The most unique part it is easy to implement and easy to get. But it has a issue it is slow and the size of the data use to grows.
+## KNN: ##
+The KNN is k-nearest neighbors’ algorithm it is a most unique and simple algo it is also used in machine learning so we can used for both the problems known as classification and regression. The most unique part it is easy to implement and easy to get. But it has a issue it is slow and the size of the data use to grows.
 
 Example: The most common and unique example of KNN is voting system. We can convert it into sub classes and functions like “Vote” and “Not vote”.
 
